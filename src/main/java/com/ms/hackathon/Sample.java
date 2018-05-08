@@ -5,6 +5,18 @@ import com.ibm.watson.developer_cloud.discovery.v1.Discovery;
 import com.ibm.watson.developer_cloud.discovery.v1.model.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+/**
+ IBM
+https://www.ibm.com/watson/developercloud/discovery/api/v1/curl.html?curl
+https://console.bluemix.net/docs/services/discovery/getting-started-query.html#getting-started-with-querying
+https://discovery-news-demo.ng.bluemix.net/
+https://github.com/watson-developer-cloud/discovery-nodejs
+*/
+/**
+ sentiment-analysis
+https://pythonprogramming.net/python-programming-finance-sentiment-analysis
+https://www.quantinsti.com/blog/sentiment-analysis-news-python/
+*/
 
 public class Sample {
 
